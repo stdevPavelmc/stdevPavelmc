@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel Milanes Costa</h1>
-<h3 align="center">I'm a SysAdmin/Software Developer/Linux User/Amateur Radio Operator from Cuba</h3>
+<h3 align="center">I'm a DevOps, SysAdmin, Linux User & Amateur Radio Operator from Cuba</h3>
 
-- ![](https://komarev.com/ghpvc/?username=stdevPavelmc)
-
-- My my projects are available at [my Github repositories page](https://github.com/stdevPavelmc?tab=repositories)
+- My projects are available at the [Github repositories page](https://github.com/stdevPavelmc?tab=repositories)
 
 - Preferred communication way is <a href="https://t.me/pavelmc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="stdevPavelmc" height="20" width="20" /></a> but you can reach me to via <a href="https://twitter.com/co7wt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stdevPavelmc" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/pavelmilanes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stdevPavelmc" height="20" width="20" /></a> <a href="https://dev.to/stdevPavelmc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stdevPavelmc" height="20" width="20" /></a>
 
@@ -15,7 +13,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=stdevPavelmc&show_icons=true" alt="stdevPavelmc" />
 </a>
+</p>
+<p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdevPavelmc" alt="stdevPavelmc" />
 </a>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stdevPavelmc&column=3" alt="codeshard" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=stdevPavelmc)
